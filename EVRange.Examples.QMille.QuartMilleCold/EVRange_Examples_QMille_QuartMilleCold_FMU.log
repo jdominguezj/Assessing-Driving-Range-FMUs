@@ -1,0 +1,5 @@
+rm -f EVRange_Examples_QMille_QuartMilleCold.fmutmp/sources/EVRange_Examples_QMille_QuartMilleCold_init.xml
+cp -a C:/OpenModelica1.13.0-64bit//include/omc/c/* EVRange_Examples_QMille_QuartMilleCold.fmutmp/sources/include/
+cp -a C:/OpenModelica1.13.0-64bit//share/omc/runtime/c/fmi/buildproject/* EVRange_Examples_QMille_QuartMilleCold.fmutmp/sources
+cp -a EVRange_Examples_QMille_QuartMilleCold_FMU.libs EVRange_Examples_QMille_QuartMilleCold.fmutmp/sources/
+RESULT: 0 
